@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ikuncode.cc",
+        "duckcoding.com",
+        "qwen-qwen3-mt-demo.ms.show",
+        "siliconflow.cn",
+        "siliconflow.com",
+        "zlongame.com"
+      ]
+    }
+  ]
+}
